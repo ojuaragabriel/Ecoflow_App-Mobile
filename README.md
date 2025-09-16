@@ -54,7 +54,7 @@ Para rodar o projeto, utilize o Expo:
 ```bash
 npx expo start
 ```
-
+ 
 Isso irá abrir uma página no navegador com um QR Code. Escaneie esse código com o app **Expo Go** no seu dispositivo móvel para visualizar o aplicativo.
 
 ### Passo 4: Navegação e funcionalidades
