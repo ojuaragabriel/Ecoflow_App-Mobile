@@ -1,5 +1,8 @@
-
 # Ecoflow
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1joTSpp5_MNwuTuU-08Lcos6aLA5eabXw" alt="Preview do app Ecoflow" width="300" />
+</p>
 
 Ecoflow é um projeto desenvolvido no hackathon da residência de software. O aplicativo oferece duas visões principais: a visão do **Administrador** e a visão do **Produtor**. 
 
@@ -17,7 +20,7 @@ Você pode testar as funcionalidades do app através do cadastro como produtor o
 Antes de rodar o projeto, certifique-se de ter o seguinte instalado:
 
 1. **Node.js** (versão >= 18.x)
-   - [Instalar Node.js](https://nodejs.org/)
+   - https://nodejs.org/
 
 2. **Expo CLI** (caso ainda não tenha)
    - Para instalar o Expo CLI globalmente, use o comando:
@@ -54,7 +57,7 @@ Para rodar o projeto, utilize o Expo:
 ```bash
 npx expo start
 ```
- 
+
 Isso irá abrir uma página no navegador com um QR Code. Escaneie esse código com o app **Expo Go** no seu dispositivo móvel para visualizar o aplicativo.
 
 ### Passo 4: Navegação e funcionalidades
